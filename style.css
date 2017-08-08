@@ -1,0 +1,74 @@
+header {
+	background-color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #cccccc;
+	border-bottom: 1px solid #8c8b8b;
+	padding: 20px;
+	display: inline-block;
+	width: 100%;
+	text-align: right;
+}
+
+body {
+	width: 960px;
+	background-image: url(http://imgur.com/VyvDFGD.png);
+	margin: 0 auto;
+}	
+
+.wrapper {
+	padding: 20px;
+}
+
+.mainsection {
+	width: 650px;
+	background-color: #ffffff;
+	display: inline-block;
+	margin-top: 50px;
+	border: 1px solid #8c8b8b;
+	padding: 4px;
+}
+
+.sociallink {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	float: right;
+	font-size: 10px;
+	width: 20%;
+	background-color: #ffffff;
+	padding: 30px;
+	display: inline-block;
+	margin-top: 50px;
+	border: 1px solid #8c8b8b;
+}
+
+h1 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+/* Grey border that separates "About Me" from the main info */
+hr.style1{
+	border-top: 3px solid #8c8b8b;
+}	
+
+.topnav {
+	overflow: hidden;
+}
+
+footer {
+	background-color: #666666;
+	width: 100%;
+	padding: 20px;
+	border-top: 4px solid #4aaaa5;
+	margin-top: 50px;
+	text-align: center;
+	color: white;
+}
+
+#logo {
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	padding: 8px;
+
+}
